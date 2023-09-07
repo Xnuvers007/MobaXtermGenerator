@@ -26,4 +26,4 @@ Overall, the MobaXterm Generator is a crucial tool for managing licensing and ac
 ## Download
 Download MobaXterm [in here](https://mobaxterm.mobatek.net/download.html)
 
-Demo Or website: [https://tr.deployers.repl.co/mobaxterm](https://tr.deployers.repl.co/mobaxterm)
+Demo Or website: [https://moba.deployers.repl.co/](https://moba.deployers.repl.co/)
